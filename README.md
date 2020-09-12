@@ -1,3 +1,3 @@
 # hoedad
 
-A python library for plotting trees, built on matplotlib.
+A python tool for plotting trees, built on matplotlib.
